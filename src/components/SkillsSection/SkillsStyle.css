@@ -1,0 +1,43 @@
+.skills{
+    text-align: center;
+    padding: 100px;
+}
+.h1{
+    text-shadow: 6px 4px 2px rgba(0, 0, 0, 1); 
+    font-size: 80px;
+    color: white;
+    margin-bottom: 30px;
+} 
+.p{
+    color: whitesmoke;
+    margin-bottom: 50px;
+}
+
+hr{
+    align-items: center;
+    display: inline-block;
+    color: whitesmoke;
+    border-width: 6px;
+    border-radius: 6px;
+    width: 340px;
+}
+
+.h2{
+    color: whitesmoke;
+    padding: 4px;
+}
+.skills-listed{
+    text-align: start;
+}
+.list-skills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h5{
+    padding-top: 10px;
+    text-align: center;
+    color: whitesmoke;
+}
+

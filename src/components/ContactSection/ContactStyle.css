@@ -1,0 +1,9 @@
+#footer{
+    padding: 32px;
+    display: flex;
+    align-items: center;
+}
+#icons{
+    display: inline-flex;
+    justify-content: end;
+}
